@@ -10,3 +10,9 @@ Seule la version console est disponible actuellement.
 ---Version console---
 
 Pour lancer une partie, ouvrir le fichier pendu.py et exécuter la fonction pendu().
+
+
+---Version graphique---
+
+Pour lancer une partie, ouvrir le fichier pendu.py et exécuter la fonction pendu().
+Quelques commentaires sont disponibles dans la description de cette fonction.

@@ -1,9 +1,9 @@
 # Pendu
 Projet de jeu du pendu en Python - Projet d'école CPE Lyon
 
-Ce projet contiendra 2 versions du jeu : une en console et une graphique.
+Ce projet contient 2 versions du jeu : une en console et une graphique.
 
-Seule la version console est disponible actuellement.
+Des fichiers sont utilisés dans les deux versions et ont été copiés dans les deux dossiers. Cela serait évitable mais je n'en ai pas eu le temps.
 
 
 
